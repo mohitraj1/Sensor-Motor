@@ -1,7 +1,7 @@
 # Sensor-Motor
 
-Deploy ML model using Flaks - https://ashaicy99.medium.com/ml-model-deployment-7c06091aa0e0
-serverless Deployment - Related Blog - https://www.analyticsvidhya.com/blog/2020/12/machine-learning-model-serverless-deployment/
+Deploy ML model using Flaks 
+serverless Deployment 
 ML-Model-Flask-Deployment
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
